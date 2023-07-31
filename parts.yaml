@@ -1,0 +1,17 @@
+path: /content/drive/MyDrive/dataset/
+train: /content/drive/MyDrive/dataset/images/train
+val: /content/drive/MyDrive/dataset/images/val
+
+nc: 10
+
+names:
+  0: window
+  1: trunk
+  2: door
+  3: grille
+  4: hood
+  5: bumper
+  6: mirror
+  7: light
+  8: damage
+  9: wheel

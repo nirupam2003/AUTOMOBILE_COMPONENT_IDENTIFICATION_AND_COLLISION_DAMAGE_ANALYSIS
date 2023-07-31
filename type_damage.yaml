@@ -1,0 +1,11 @@
+path: /content/drive/MyDrive/check damage
+train: /content/drive/MyDrive/check damage/images/train
+val: /content/drive/MyDrive/check damage/images/val
+nc: 5
+names:
+  0: broken
+  1: scratch
+  2: Cracked
+  3: dent
+  4: corrossion
+  
